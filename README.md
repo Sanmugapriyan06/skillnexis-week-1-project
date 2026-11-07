@@ -72,3 +72,5 @@ The results should match the Pivot Tables sheet.
 ## Tools
 
 Microsoft Excel (works in Excel 2007 or later), with formulas `SUMIFS`, `SUM`, `COUNT`, `YEAR` and `IF`.
+<img width="1021" height="622" alt="Screenshot 2026-11-04 141316" src="https://github.com/user-attachments/assets/5456f3c9-c9b1-407b-8ac3-6c89613f01e5" />
+
